@@ -124,7 +124,6 @@ html{
     height: 5px;
     border-radius: 5px;
     background-color: #ffffff;
-    /* margin: 4px 0; */
     transition: 0.7s ease;
 }
 
@@ -174,6 +173,7 @@ html{
 
 
  /* content somth---------------------------------- */
+ /* change bd\g background */
 
  .main-content{
     background-image: url(/assets/bgm2.png);
