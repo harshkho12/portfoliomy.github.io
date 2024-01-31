@@ -176,7 +176,7 @@ html{
  /* change bd\g background */
 
  .main-content{
-    background-image: url(/assets/bgm2.png);
+    background-image: url(/assets/bgm2.webp);
     background-size: cover;
     background-repeat: no-repeat; 
     background-position: center;
